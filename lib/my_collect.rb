@@ -1,3 +1,3 @@
-def my_collect(array)
+def each(array)
   
   
