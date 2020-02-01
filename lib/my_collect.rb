@@ -1,3 +1,4 @@
-def each(array)
+def my_collect(array)
+new 
   
   
